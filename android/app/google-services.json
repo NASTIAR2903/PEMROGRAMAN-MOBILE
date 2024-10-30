@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302359309433",
+    "project_id": "codelab3agym",
+    "storage_bucket": "codelab3agym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302359309433:android:e38868b8fdd7a733e738a8",
+        "android_client_info": {
+          "package_name": "com.example.mod3_codelab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVc5O5YfzL5QO1Tcup7b53pDBGlchvDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
